@@ -25,6 +25,6 @@
 
 ## Contact
 
-📫 If you're interested in my work or just want to say hi, don't hesitate to contact me on my [LinkedIn profile](https://www.linkedin.com/in/lukas-oliver-lamberz/).
+📫 If you're interested in my work or just want to say hi, don't hesitate to contact me on my [LinkedIn profile](https://www.linkedin.com/in/lukas-oliver-lamberz-206b30262//).
 
 Thank you for visiting my Github profile! 😄
