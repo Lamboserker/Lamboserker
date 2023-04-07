@@ -12,8 +12,13 @@
 - HTML
 - CSS
 - Bootstrap
-- GIT
 - Javascript
+- Node.Js
+- GIT
+- npm
+
+
+
 
 ## Projects
 
