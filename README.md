@@ -17,7 +17,6 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 - ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 - ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - ![SASS](https://img.icons8.com/color/48/000000/sass.png)
-- ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
 
 
 ### Backend Technologies:
@@ -27,7 +26,6 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 ### Package Managers and Version Control:
 - ![npm](https://img.icons8.com/color/48/000000/npm.png)
-- ![npx](https://img.icons8.com/color/48/000000/npx.png)
 - ![Git](https://img.icons8.com/color/48/000000/git.png)
 
 ## Projects
