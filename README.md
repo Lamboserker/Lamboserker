@@ -18,7 +18,7 @@ dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 - ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 - ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
-- ![LESS](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/less-icon.svg)
+
 
 ### Backend Technologies:
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
