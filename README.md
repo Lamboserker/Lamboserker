@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there! 👋
 
 🤖 I'm Lukas Oliver Lamberz, a student and aspiring Fullstack Web Developer from Germany.
 
@@ -8,17 +8,27 @@
 
 ## Skills
 
-🔨 Here are some of the tools and technologies I use:
+### Programming Languages:
+- JavaScript
+
+### Web Technologies:
 - HTML
 - CSS
 - Bootstrap
-- Javascript
-- Node.Js
-- GIT
+- React
+- SASS
+- LESS
+- SCSS
+
+### Backend Technologies:
+- Node.js
+- SQL
+- PHP
+
+### Package Managers and Version Control:
 - npm
-
-
-
+- npx
+- Git
 
 ## Projects
 
@@ -32,4 +42,4 @@
 
 📫 If you're interested in my work or just want to say hi, don't hesitate to contact me on my [LinkedIn profile](https://www.linkedin.com/in/lukas-oliver-lamberz-206b30262//).
 
-Thank you for visiting my Github profile! 😄
+Thank you for visiting my GitHub profile! 😄
