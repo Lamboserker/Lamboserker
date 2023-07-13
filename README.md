@@ -1,4 +1,4 @@
-# HI THERE! 👋
+# Hi there! 👋
 
 🤖 I'm Lukas Oliver Lamberz, a student and aspiring Fullstack Web Developer from Germany.
 
@@ -8,25 +8,14 @@
 
 ## Skills
 
-### Programming Languages:
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-
-### Web Technologies:
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![SASS](https://img.icons8.com/color/48/000000/sass.png)
-
-
-### Backend Technologies:
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-- ![SQL](https://img.icons8.com/dusk/48/000000/sql.png)
-- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
-
-### Package Managers and Version Control:
-- ![npm](https://img.icons8.com/color/48/000000/npm.png)
-- ![Git](https://img.icons8.com/color/48/000000/git.png)
+| Programming Languages | Web Technologies | Backend Technologies | Package Managers and Version Control |
+| --------------------- | ---------------- | -------------------- | ----------------------------------- |
+| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![npm](https://img.icons8.com/color/48/000000/npm.png) |
+|                      | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) | ![npx](https://img.icons8.com/color/48/000000/npx.png) |
+|                      | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) |
+|                      | ![React](https://img.icons8.com/color/48/000000/react-native.png) |  |  |
+|                      | ![SASS](https://img.icons8.com/color/48/000000/sass.png) |  |  |
+|                      | ![SCSS](https://img.icons8.com/color/48/000000/sass.png) |  |  |
 
 ## Projects
 
