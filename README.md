@@ -1,4 +1,4 @@
- Hi there! 👋
+# Hi there! 👋
 
 🤖 I'm Lukas Oliver Lamberz, a student and aspiring Fullstack Web Developer from Germany.
 
