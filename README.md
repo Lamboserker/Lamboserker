@@ -1,4 +1,4 @@
-# Hi there! 👋
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd# Hi there! 👋
 
 🤖 I'm Lukas Oliver Lamberz, a student and aspiring Fullstack Web Developer from Germany.
 
@@ -18,6 +18,7 @@
 - ![React](https://img.icons8.com/color/48/000000/react-native.png)
 - ![SASS](https://img.icons8.com/color/48/000000/sass.png)
 - ![SCSS](https://img.icons8.com/color/48/000000/sass.png)
+- ![LESS](https://lesscss.org/public/img/less_logo.png)
 
 ### Backend Technologies:
 - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
