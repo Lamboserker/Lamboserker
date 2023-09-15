@@ -1,31 +1,61 @@
-# Hi there! 👋
+# Greetings, I am Lukas Oliver Lamberz! 👋
 
-🤖 I'm Lukas Oliver Lamberz, a student and aspiring Fullstack Web Developer from Germany.
+🔍 **Prospective Fullstack Web Developer** from Gummersbach, Germany.
 
-## Experience
+---
 
-🎓 I'm still in my studies, but I have gained some experience in developing web applications. I'm passionate about expanding my knowledge in development and staying up-to-date with the latest trends.
+## 📚 **Education & Experience**
 
-## Skills
+Currently in the midst of my educational journey, I've already amassed experience in web application development. My ambition is to continually augment my expertise, ensuring I remain at the forefront of technological advancements.
 
-| Programming Languages | Web Frontend Technologies | Backend Technologies | Tools & Package Managers | Operating Systems |
-| --------------------- | ------------------------- | -------------------- | ------------------------ | ----------------- |
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![npm](https://img.icons8.com/color/48/000000/npm.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) |
-|                      | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
-|                      | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) | ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png) | ![Mac](https://img.icons8.com/color/48/000000/mac-os.png) |
-|                      | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) |  |  |
-|                      | ![SASS](https://img.icons8.com/color/48/000000/sass.png) |  |  |  |
+---
 
-## Projects
+## 🔧 **Skills & Tools**
 
-🚀 I haven't contributed to any open-source projects yet, but I'm working on some personal projects to improve my skills and pursue my passion for web development.
+### 🖥 **Programming Languages**
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![SQL](https://img.icons8.com/dusk/48/000000/sql.png)
+![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
 
-## Goal
+### 🌍 **Frontend Technologies**
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![SASS](https://img.icons8.com/color/48/000000/sass.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
-🎯 My goal is to become an experienced Fullstack Developer and expand my skills to develop complex applications and platforms that provide value to users.
+### 🖲 **Backend Technologies**
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+![ExpressJS](https://img.icons8.com/color/48/000000/express.png)
 
-## Contact
+### 🛠 **Tools, Package Managers & APIs**
+![npm](https://img.icons8.com/color/48/000000/npm.png) 
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png)
 
-📫 If you're interested in my work or just want to say hi, don't hesitate to contact me on my [LinkedIn profile](https://www.linkedin.com/in/lukas-oliver-lamberz-206b30262//).
+### 💻 **Operating Systems**
+![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+![Mac](https://img.icons8.com/color/48/000000/mac-os.png)
 
-Thank you for visiting my GitHub profile! 😄
+---
+
+## 🚀 **Projects**
+
+While I have yet to contribute to open-source endeavors, I am actively engaged in personal projects to hone my skillset.
+
+---
+
+## 🎯 **Objectives**
+
+My aspiration is to evolve into a seasoned Fullstack Developer, broadening my skills to craft intricate applications and platforms that deliver genuine value to users.
+
+---
+
+## 💌 **Contact**
+
+Should you find an interest in my work or wish to initiate a conversation, please don't hesitate to reach out via my [LinkedIn Profile](https://www.linkedin.com/in/lukas-oliver-lamberz-206b30262//).
+
+---
+
+**Thank you for perusing my GitHub profile!** 😄🎸🎶
