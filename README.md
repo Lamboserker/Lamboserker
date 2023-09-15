@@ -8,13 +8,13 @@
 
 ## Skills
 
-| Programming Languages | Web Technologies | Backend Technologies | Package Managers and Version Control | Operating Systems |
-| --------------------- | ---------------- | -------------------- | ----------------------------------- | ----------------- |
+| Programming Languages | Web Frontend Technologies | Backend Technologies | Tools & Package Managers | Operating Systems |
+| --------------------- | ------------------------- | -------------------- | ------------------------ | ----------------- |
 | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![HTML](https://img.icons8.com/color/48/000000/html-5.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![npm](https://img.icons8.com/color/48/000000/npm.png) | ![Linux](https://img.icons8.com/color/48/000000/linux.png) |
 |                      | ![CSS](https://img.icons8.com/color/48/000000/css3.png) | ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
-|                      | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) |  | ![Mac](https://img.icons8.com/color/48/000000/mac-os.png) |
+|                      | ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) | ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) | ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png) | ![Mac](https://img.icons8.com/color/48/000000/mac-os.png) |
 |                      | ![React](https://img.icons8.com/color/48/000000/react-native.png) | ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) |  |  |
-|                      | ![SASS](https://img.icons8.com/color/48/000000/sass.png) | ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png) |  |  |
+|                      | ![SASS](https://img.icons8.com/color/48/000000/sass.png) |  |  |  |
 
 ## Projects
 
