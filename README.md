@@ -58,4 +58,4 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 
 ---
 
-❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶
+❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶 
