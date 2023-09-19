@@ -1,4 +1,4 @@
-# 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
+[# 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
 
 💡 Hailing from Gummersbach, Germany, I'm on a mission: to carve a niche in the vast realm of Fullstack Web Development.
 
@@ -59,3 +59,4 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 ---
 
 ❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶 
+](https://open.spotify.com/intl-de/track/3iltRlox3jEeSKuqdW88EK?si=ffad3f37c49c496b)https://open.spotify.com/intl-de/track/3iltRlox3jEeSKuqdW88EK?si=ffad3f37c49c496b
