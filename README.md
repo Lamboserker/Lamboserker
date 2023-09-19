@@ -67,9 +67,10 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 ---
 
 ❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶
-![lamboserker's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en&theme=dark)
+![lamboserker's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en&theme=dark&margin-h=15)
 
 <br />
 
 ![lamboserker's GitHub trophies](https://github-profile-trophy.vercel.app/?username=lamboserker&theme=darkhub&column=3&margin-w=15&margin-h=15)
+
 
