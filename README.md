@@ -3,7 +3,6 @@
 
 💡 Hailing from Gummersbach, Germany, I'm on a mission: to carve a niche in the vast realm of Fullstack Web Development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" /> </p>
 
 ## 📘 **The Journey So Far**
 
@@ -41,8 +40,6 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
 - ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 - ![Mac](https://img.icons8.com/color/48/000000/mac-os.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">... (alle anderen Tools und Sprach-Icons hier hinzufügen) ...</p>
 
 ---
 
@@ -65,7 +62,6 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lukas oliver lamberz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukas oliver lamberz" height="30" width="40" /></a>
-... (andere Social Media Links hier) ...
 </p>
 
 ---
