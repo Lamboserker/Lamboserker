@@ -75,7 +75,10 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 
 ![lamboserker's GitHub trophies](https://github-profile-trophy.vercel.app/?username=lamboserker&theme=darkhub&column=3&margin-w=15&margin-h=15)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact" alt="lamboserker" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact" alt="lamboserker's most used languages" />
+</p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&" alt="lamboserker" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&" alt="lamboserker's GitHub streaks" />
+</p>
