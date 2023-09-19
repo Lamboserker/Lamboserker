@@ -15,9 +15,9 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
 ## 🎨 **My Technical Palette**
 
 ### 🖋 **Programming Vernacular**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
-- ![SQL](https://img.icons8.com/dusk/48/000000/sql.png)
-- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
+ ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+ ![SQL](https://img.icons8.com/dusk/48/000000/sql.png)
+ ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
 
 ### 🌆 **Frontend Canvas**
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
