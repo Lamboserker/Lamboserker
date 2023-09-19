@@ -1,8 +1,10 @@
 # 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" /> </p>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" />
+</p>
 
 💡 Hailing from Gummersbach, Germany, I'm on a mission: to carve a niche in the vast realm of Fullstack Web Development.
-
 
 ## 📘 **The Journey So Far**
 
@@ -15,31 +17,30 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
 ## 🎨 **My Technical Palette**
 
 ### 🖋 **Programming Vernacular**
- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) <br/>
- ![SQL](https://img.icons8.com/dusk/48/000000/sql.png) <br/>
- ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) <br/>
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![SQL](https://img.icons8.com/dusk/48/000000/sql.png)
+![PHP](https://img.icons8.com/officel/48/000000/php-logo.png)
 
 ### 🌆 **Frontend Canvas**
- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) <br/>
- ![CSS](https://img.icons8.com/color/48/000000/css3.png) <br/>
- ![React](https://img.icons8.com/color/48/000000/react-native.png) <br/>
- ![SASS](https://img.icons8.com/color/48/000000/sass.png) <br/>
- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) <br/>
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![SASS](https://img.icons8.com/color/48/000000/sass.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ### 🌐 **Backend Forge**
- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) <br/>
- ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) <br/>
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![ExpressJS](https://img.icons8.com/color/48/000000/express.png)
 
 ### 🔧 **Toolbelt & Digital Workbenches**
- ![npm](https://img.icons8.com/color/48/000000/npm.png) <br/>
- ![Git](https://img.icons8.com/color/48/000000/git.png) <br/>
- ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png) <br/>
+![npm](https://img.icons8.com/color/48/000000/npm.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png)
 
 ### 🖥 **Digital Terrains I Tread**
- ![Linux](https://img.icons8.com/color/48/000000/linux.png) <br/>
- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) <br/>
- ![Mac](https://img.icons8.com/color/48/000000/mac-os.png) <br/>
-
+![Linux](https://img.icons8.com/color/48/000000/linux.png)
+![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
+![Mac](https://img.icons8.com/color/48/000000/mac-os.png)
 
 ---
 
@@ -68,17 +69,12 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 
 ## ❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶
 
-
-![lamboserker's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en&theme=dark&margin-h=15)
-
-<br />
-
-![lamboserker's GitHub trophies](https://github-profile-trophy.vercel.app/?username=lamboserker&theme=darkhub&column=3&margin-w=15&margin-h=15)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact" alt="lamboserker's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&" alt="lamboserker's GitHub streaks" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en&theme=dark" alt="lamboserker's GitHub stats" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=lamboserker&theme=darkhub&column=3&margin-w=15&margin-h=15" alt="lamboserker's GitHub trophies" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact&theme=dark" alt="lamboserker's most used languages" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&theme=dark" alt="lamboserker's GitHub streaks" />
 </p>
