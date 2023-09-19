@@ -20,25 +20,25 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
  ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) <br/>
 
 ### 🌆 **Frontend Canvas**
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png)
-- ![React](https://img.icons8.com/color/48/000000/react-native.png)
-- ![SASS](https://img.icons8.com/color/48/000000/sass.png)
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+ ![HTML](https://img.icons8.com/color/48/000000/html-5.png) <br/>
+ ![CSS](https://img.icons8.com/color/48/000000/css3.png) <br/>
+ ![React](https://img.icons8.com/color/48/000000/react-native.png) <br/>
+ ![SASS](https://img.icons8.com/color/48/000000/sass.png) <br/>
+ ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) <br/>
 
 ### 🌐 **Backend Forge**
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
-- ![ExpressJS](https://img.icons8.com/color/48/000000/express.png)
+ ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) <br/>
+ ![ExpressJS](https://img.icons8.com/color/48/000000/express.png) <br/>
 
 ### 🔧 **Toolbelt & Digital Workbenches**
-- ![npm](https://img.icons8.com/color/48/000000/npm.png) 
-- ![Git](https://img.icons8.com/color/48/000000/git.png)
-- ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png)
+ ![npm](https://img.icons8.com/color/48/000000/npm.png) <br/>
+ ![Git](https://img.icons8.com/color/48/000000/git.png) <br/>
+ ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png) <br/>
 
 ### 🖥 **Digital Terrains I Tread**
-- ![Linux](https://img.icons8.com/color/48/000000/linux.png) 
-- ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
-- ![Mac](https://img.icons8.com/color/48/000000/mac-os.png)
+ ![Linux](https://img.icons8.com/color/48/000000/linux.png) <br/>
+ ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) <br/>
+ ![Mac](https://img.icons8.com/color/48/000000/mac-os.png) <br/>
 
 
 ---
