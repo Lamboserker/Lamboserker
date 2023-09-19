@@ -1,12 +1,15 @@
-[# 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
+# 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" /> </p>
 
 💡 Hailing from Gummersbach, Germany, I'm on a mission: to carve a niche in the vast realm of Fullstack Web Development.
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" /> </p>
 
 ## 📘 **The Journey So Far**
 
 Amidst my academic endeavors, I've dived deep into the ocean of web development, emerging with pearls of experience. Stagnation isn't in my dictionary - I'm all about continuous learning and innovation.
+
+- 🔭 I’m currently working on **personal projects**
 
 ---
 
@@ -38,6 +41,9 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
 - ![Windows](https://img.icons8.com/color/48/000000/windows-10.png)
 - ![Mac](https://img.icons8.com/color/48/000000/mac-os.png)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">... (alle anderen Tools und Sprach-Icons hier hinzufügen) ...</p>
+
 ---
 
 ## 🌱 **Seeds I'm Planting**
@@ -54,9 +60,16 @@ Beyond the horizon lies my vision: to master the Fullstack terrain, designing in
 
 ## 💌 **Slide into My DMs**
 
-I'm always game for a chat about tech, innovations, or the latest track I've tried on my guitar. Connect with me on [LinkedIn](https://www.linkedin.com/in/lukas-oliver-lamberz-206b30262//).
+I'm always game for a chat about tech, innovations, or the latest track I've tried on my guitar. 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lukas oliver lamberz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lukas oliver lamberz" height="30" width="40" /></a>
+... (andere Social Media Links hier) ...
+</p>
 
 ---
 
-❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶 
-](https://open.spotify.com/intl-de/track/3iltRlox3jEeSKuqdW88EK?si=ffad3f37c49c496b)https://open.spotify.com/intl-de/track/3iltRlox3jEeSKuqdW88EK?si=ffad3f37c49c496b
+❤️ **Gratitude for stopping by. Here's to code, coffee, and every tune in between!** 🎸🎶
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en" alt="lamboserker" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lamboserker" alt="lamboserker" /></a> </p>
