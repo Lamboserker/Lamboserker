@@ -71,7 +71,7 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
 
 <p align="center">
   <!-- GitHub Stats & Streaks nebeneinander -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lamboserker&show_icons=true&locale=en&theme=dark" alt="lamboserker's GitHub stats" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&theme=dark" alt="lamboserker's GitHub streaks" width="48%" />
   <br />
   <!-- Most Used Languages & Trophies nebeneinander -->
