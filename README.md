@@ -76,5 +76,5 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact&theme=dark" alt="lamboserker's most used languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamboserker&theme=dark" alt="lamboserker's GitHub streaks" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Lamboserker)](https://git.io/streak-stats)
 </p>
