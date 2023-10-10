@@ -28,14 +28,12 @@ Amidst my academic endeavors, I've dived deep into the ocean of web development,
 ### 🌐 **Backend Forge**
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![ExpressJS](https://img.icons8.com/color/48/000000/express.png)
-![MongoDB Compass](Your-MongoDB-Compass-Icon-URL)
-![MongoDB Atlas](Your-MongoDB-Atlas-Icon-URL)
 
 ### 🔧 **Toolbelt & Digital Workbenches**
 ![npm](https://img.icons8.com/color/48/000000/npm.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![PostmanAPI](https://img.icons8.com/dusk/48/000000/postman-api.png)
-![REST API](Your-REST-API-Icon-URL)
+![REST API](https://img.icons8.com/windows/48/000000/postman.png)
 
 ### 🖥 **Digital Terrains I Tread**
 ![Linux](https://img.icons8.com/color/48/000000/linux.png)
