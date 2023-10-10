@@ -1,8 +1,5 @@
 # 🚀 Hello, World! Meet Lukas Oliver Lamberz 🌍
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=lamboserker&label=Profile%20views&color=0e75b6&style=flat" alt="lamboserker" />
-</p>
 
 💡 Hailing from Gummersbach, Germany, I'm on a mission: to carve a niche in the vast realm of Fullstack Web Development.
 
@@ -77,4 +74,3 @@ I'm always game for a chat about tech, innovations, or the latest track I've tri
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lamboserker&show_icons=true&locale=en&layout=compact&theme=dark" alt="lamboserker's most used languages" />
   <br />
 </p>
-![Snake animation](https://github.com/lamboserker/blob/output/github-contribution-grid-snake.svg)
