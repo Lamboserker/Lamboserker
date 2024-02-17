@@ -23,7 +23,8 @@
 
 ---
 
-🌆 **Frontend Canvas**<br><br>![HTML](https://img.icons8.com/color/48/000000/html-5.png)<br>![CSS](https://img.icons8.com/color/48/000000/css3.png)<br>![React](https://img.icons8.com/color/48/000000/react-native.png)<br>![SASS](https://img.icons8.com/color/48/000000/sass.png)<br>![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)<br><br> 
+🌆 **Frontend Canvas**<br><br>![HTML](https://img.icons8.com/color/48/000000/html-5.png)<br>![CSS](https://img.icons8.com/color/48/000000/css3.png)<br>![React](https://img.icons8.com/color/48/000000/react-native.png)<br>![SASS](https://img.icons8.com/color/48/000000/sass.png)<br>![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)<br>![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+ <br><br> 
 
 ---
 
